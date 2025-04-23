@@ -214,3 +214,11 @@ The server includes comprehensive error handling:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/v4lheru/trello-mcp-server/blob/master/LICENSE) file for details.
+
+
+
+
+## References
+
+- [Trello MCP Server](https://github.com/v4lheru/trello-mcp-server)
+

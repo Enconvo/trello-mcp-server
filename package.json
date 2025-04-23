@@ -1,6 +1,6 @@
 {
     "name": "@enconvo/trello-mcp-server",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "description": "Trello MCP Server - A Model Context Protocol server for interacting with the Trello API",
     "type": "module",
     "main": "build/index.js",
